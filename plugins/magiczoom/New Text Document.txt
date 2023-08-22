@@ -1,0 +1,1 @@
+<a href="foto/<?php echo $data['foto_calon']; ?>" class="MagicZoom" rel="zoom-id:zoom;opacity-reverse:true;">
